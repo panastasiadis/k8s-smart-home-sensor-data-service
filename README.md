@@ -1,4 +1,4 @@
-# Sensor Data Management Service
+# Smart Home with K8s and Microservices | Sensor Data Management Service
 
 ## Overview
 
