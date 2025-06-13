@@ -2,7 +2,7 @@
 
 ## Overview
 
-This service operates within an environment comprising several interconnected components, all orchestrated to manage data flows and interactions effectively. It collaborates with services that utilize Telegraf and InfluxDB, forming a cohesive ecosystem for data collection, storage, and retrieval.
+This repository is part of my thesis project, **"Enhancing Integration Process and Manageability of a Microservices-Based Home Automation Application with Kubernetes"**, and contains the services responsible for managing sensors and handling data flow. It utilizes Telegraf, InfluxDB and Flask for data collection, storage, and retrieval.
 
 ## Services
 
